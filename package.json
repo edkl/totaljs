@@ -8,7 +8,7 @@
   "main": "debug.js",
   "scripts": {
     "start": "node debug.js",
-    "test": "node test.js"
+    "test": "node debug.js"
   },
   "dependencies": {
     "ejs": "^2.5.6",
