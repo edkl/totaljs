@@ -5,9 +5,9 @@
   "engines": {
     "node": "8.9.1"
   },
-  "main": "index.js",
+  "main": "debug.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node debug.js",
     "test": "node test.js"
   },
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sieghurt/totaljs",
+    "url": "https://github.com/sieghurt/totaljs"
   },
   "keywords": [
     "node",
