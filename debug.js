@@ -13,4 +13,4 @@ const options = {};
 // options.inspector = 9229;
 // options.watch = ['private'];
 
-require('total.js/debug.js')(options);
+require('total.js/debug')(options);
